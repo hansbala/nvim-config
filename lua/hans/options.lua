@@ -37,6 +37,7 @@ local options = {
   scrolloff = 8,                           -- is one of my fav
   sidescrolloff = 8,
   title = true,
+  background = "light",
   -- colorcolumn = "120",
 }
 
